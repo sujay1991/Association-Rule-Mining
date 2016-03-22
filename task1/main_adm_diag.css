@@ -1,0 +1,62 @@
+@CHARSET "ISO-8859-1";
+
+body{
+	align:centre;
+	background:  url("kids.jpg");
+	background-repeat: no-repeat;
+	background-size:1500px 750px;
+	
+}
+
+h1{
+	color:#560319;
+	background-color:#E5CCC9;
+	box-shadow: 0 0 10px 5px #FF8C00;
+	text-shadow: 2px 2px 3px pink;
+	padding:20px;
+	text-align:center;
+	margin:10px 25px;
+}
+
+table{
+	border:2px solid black;
+	border-collapse:collapse;
+}
+
+tr,td,th{
+	color:#560319;
+	border:2px solid black;
+	padding:8px;
+}
+
+thead{
+	background-color:#8DB600;
+	}
+	
+
+	
+	
+tr:nth-child(2n)
+{
+	background-color:#B284BE;
+}
+
+tr:nth-child(3n)
+{
+	background-color:#E75480;
+}
+
+tr:nth-child(5n)
+{
+	background-color:#50C878;
+}
+
+tr:nth-child(6n)
+{
+	background-color:#B48395;
+}
+
+tr:nth-child(7n)
+{
+	background-color:#EB4C42;
+}

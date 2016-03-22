@@ -1,0 +1,32 @@
+@CHARSET "ISO-8859-1";
+
+h1{
+	color:#560319;
+	background-color:#E5CCC9;
+	padding:50px;
+	padding: 20px 20px 20px 20px;
+	border-style:solid;
+	box-shadow: 0 0 10px 5px #FF8C00;
+	text-shadow: 2px 2px 3px pink;
+	text-align:center;
+	margin:10px 25px;
+}
+
+
+
+h2{
+	color: purple;
+
+}
+
+h3{
+	color:black;
+}
+ 
+body{
+	align:centre;
+	background:  url("kids.jpg");
+	background-repeat: no-repeat;
+	background-size:1350px 750px;
+	
+}
